@@ -1,0 +1,23 @@
+{
+  "name": "VantaShala",
+  "short_name": "VantaShala",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "description": "VantaShala Progressive Web App",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/G37FpN5t/resized-image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/8Dzf12yR/logo-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "monochrome"
+    }
+  ]
+}
