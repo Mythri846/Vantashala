@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vantashala.twa",
+    "sha256_cert_fingerprints": [
+      "ED:F5:5A:13:BA:DD:AF:25:D2:2C:F5:C8:E4:9D:F1:3B:F7:9F:A3:FE:4B:74:94:7E:9B:00:B7:99:81:06:2D:A8"
+    ]
+  }
+}]
