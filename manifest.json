@@ -12,12 +12,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "https://i.ibb.co/8Dzf12yR/logo-48x48.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "purpose": "monochrome"
     }
   ]
 }
