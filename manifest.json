@@ -1,35 +1,22 @@
 {
   "name": "VantaShala",
   "short_name": "VantaShala",
-  "description": "VantaShala Progressive Web App",
   "start_url": "/",
-  "id": "/",
-  "scope": "/",
   "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "VantaShala Progressive Web App",
   "icons": [
     {
-      "src": "https://i.ibb.co/5gpdhtKd/maskable-icon-x48.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/5gpdhtKd/maskable-icon-x48.png",
+      "src": "https://i.ibb.co/ZR2w2GqR/maskable-icon-x512.png",
       "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "https://i.ibb.co/5gpdhtKd/maskable-icon-x48.png",
-      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/ZR2w2GqR/maskable-icon-x512.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
-  ],
-  "prefer_related_applications": false,
-  "shortcuts": [],
-  "screenshots": [],
-  "categories": ["education", "food", "service"],
-  "lang": "en"
+  ]
 }
