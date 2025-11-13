@@ -1,0 +1,23 @@
+{
+  "name": "VantaShala",
+  "short_name": "VantaShala",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "VantaShala - Online food ordering and delivery",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/5gpdhtKd/maskable-icon-x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/cc8zWrvk/maskable-icon-x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
