@@ -9,16 +9,15 @@
   "description": "VantaShala - Online food ordering and delivery",
   "icons": [
     {
-      "src": "https://i.ibb.co/5gpdhtKd/maskable-icon-x48.png",
+      "src": "https://apkvs.vantashala.com/logo(48x48).png ",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "https://i.ibb.co/cc8zWrvk/maskable-icon-x512.png",
+      "src": "https://apkvs.vantashala.com/Logo_VS.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ]
 }
-
